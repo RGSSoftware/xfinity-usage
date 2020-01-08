@@ -1,5 +1,5 @@
 {
-  "domain": "xfinity",
+  "domain": "xfinity_usage",
   "name": "Xfinity Usage",
   "documentation": "https://github.com/robert-alfaro/xfinity-usage",
   "requirements": [],
